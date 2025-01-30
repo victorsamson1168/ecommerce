@@ -1,0 +1,38 @@
+{
+  "tabs": {
+    "account": "Account"
+  },
+  "titles": {
+    "account_setting": "Account Setting",
+    "account_details": "Account Details"
+  },
+  "buttons": {
+    "save": "Save"
+  },
+  "labels": {
+    "profile": "Profile",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "category": "Category"
+  },
+  "placeholders": {
+    "profile_image": "Upload your profile image",
+    "first_name": "Enter your first name",
+    "last_name": "Enter your last name"
+  },
+  "descriptions": {
+    "image_support": "Supports WEBP, JPG, PNG with maximum size of 2MB."
+  },
+  "image": {
+    "preview_alt": "Preview {index}",
+    "preview": "Profile Image Preview",
+    "default": "Default Profile Image"
+  },
+  "toast": {
+    "copy_success": "Your referral code has been copied!",
+    "copy_failure": "Failed to copy your referral code.",
+    "invalid_file": "Please select a valid image file (WEBP, JPG, or PNG).",
+    "large_file": "The selected image is too large. Please choose an image with a maximum size of 2MB."
+  }
+}

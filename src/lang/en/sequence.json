@@ -1,0 +1,192 @@
+{
+  "charts": {
+    "tooltip": {
+      "emailSent": "Email sent: {{count}}"
+    },
+    "noEmailSent": "No email has been sent yet",
+    "addCandidates": "Add candidates to the email sequence for easy follow-up"
+  },
+
+  "filters": {
+    "thisWeek": "This week",
+    "thisMonth": "This month"
+  },
+  "statistics": {
+    "averageOpenRate": "Average open rate",
+    "averageResponseRate": "Average response rate",
+    "totalContacts": "Total number of contacts",
+    "contactsInProgress": "Contacts in progress",
+    "contactsCompleted": "Contacts completed"
+  },
+  "errors": {
+    "failedToLoadList": {
+      "title": "Failed to load the list",
+      "content": "Failed to load the list of automations."
+    },
+    "noCampaigns": {
+      "title": "No campaign has been found",
+      "content": "A list of all your created campaigns will be displayed here"
+    }
+  },
+  "header": {
+    "campaigns": "Campaigns",
+    "emailAnalytics": "Email analytics",
+    "statistics": "Statistics"
+  },
+  "buttons": {
+    "createAutomation": "Create automation",
+    "save": "Save",
+    "addCampaign": "Add campaign steps"
+  },
+  "search": {
+    "placeholder": "Search by title",
+    "placeholder2": "Search by name or email"
+  },
+  "dialog": {
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "title": "Delete campaigns",
+    "message": "When campaigns is deleted, all sending information and added talent list are lost and cannot be recovered. Do you still want to delete it",
+    "confirmTitle": "Confirm Candidate {stage}",
+    "confirmContent": "Are you sure you want to move {name} to Hired? This action will initiate the hiring process for this candidate. Please confirm to proceed or cancel to review further."
+  },
+  "titlePopup": {
+    "modalTitle": "Set automation title",
+    "confirm": "Confirm"
+  },
+  "common": {
+    "people": "people"
+  },
+  "automationTitlePopup": {
+    "editTitle": "Edit title",
+    "save": "Save",
+    "enterAutomationTitle": "Enter automation title"
+  },
+  "emailListCard": {
+    "numbers": {
+      "total": "Total",
+      "inProgress": "In progress",
+      "completed": "Completed",
+      "openRate": "Open rate",
+      "responseRate": "Response rate"
+    },
+    "step": "step",
+    "steps": "steps"
+  },
+  "status": {
+    "started": "Started",
+    "inProgress": "In Progress",
+    "completed": "Completed"
+  },
+  "steps": {
+    "all": "All"
+  },
+  "meta": {
+    "total": "Total",
+    "inProgress": "In Progress",
+    "complete": "Complete",
+    "openRate": "Open rate",
+    "responseRate": "Response rate"
+  },
+  "email": {
+    "activity": {
+      "noActivity": "No activity yet"
+    }
+  },
+  "table": {
+    "options": {
+      "viewProfile": "View Profile",
+      "remove": "Remove"
+    }
+  },
+  "toast": {
+    "error": {
+      "hiredStage": "You can't move applicants from Hired Stage"
+    }
+  },
+  "result": {
+    "noCandidates": "No candidates added yet",
+    "noCandidatesContent": "List of added candidates to the email sequence will be displayed here"
+  },
+  "newEmail": {
+    "followUp": "Follow-up Email ({{count}})"
+  },
+  "dummy": {
+    "subject": "Dummy Subject",
+    "body": "Hello, this is a test mail"
+  },
+  "initialEmail": {
+    "title": "Introduction email"
+  },
+  "followUpEmail": {
+    "title": "Follow-up Email ({{count}})"
+  },
+  "noAutomation": {
+    "title": "No automation found"
+  },
+  "limitError": "You can’t add more than 5 automation at a time.",
+  "noData": {
+    "title": "No data found",
+    "content1": "No automation data found with this automation ID"
+  },
+
+  "automationTile": {
+    "title": "Introduction Email",
+    "followUpTitle": "Follow-up Email",
+    "options": {
+      "businessDays": "Business Days",
+      "days": "Days",
+      "minutes": "Minutes",
+      "hours": "Hours",
+      "am": "AM",
+      "pm": "PM"
+    },
+    "tags": {
+      "talentName": "Talent Name",
+      "currentJob": "Current Job",
+      "recentMajor": "Recent Major",
+      "recentExperience": "Recent Experience"
+    },
+    "followupMessage": "If no response has been received, follow up by resending this email after",
+    "timeBasedMessage": "It will be",
+    "timezoneMessage": "based on your timezone.",
+    "emailFromLabel": "Email from",
+    "daysAt": "daysAt",
+    "noEmailLinked": "No email linked",
+    "linkEmailButton": "Link email",
+    "introMessage": "When profiles are added, send this introductory email",
+    "selectStatus": "Select status",
+    "sendImmediately": "Send immediately when added to automation",
+    "composeEmail": "Compose email",
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "Add your email subject here",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Add your email content here",
+    "preview": {
+      "title": "Preview",
+      "talentName": "John Doe",
+      "currentJob": "Software Engineer",
+      "recentMajor": "Computer Science",
+      "recentExperience": "5 years",
+      "emptyMessage": "Your email preview will be displayed here...",
+      "signature": "Sent with Redrob, the AI recruiter"
+    }
+  },
+  "options": {
+    "name": {
+      "value": "Name"
+    },
+    "email": {
+      "value": "Email"
+    },
+    "status": {
+      "value": "Steps"
+    },
+    "addedDate": {
+      "value": "Added date"
+    },
+    "activity": {
+      "value": "Activity"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "people_search": "인재 검색",
+    "notifications": "알림",
+    "campaigns": "캠페인",
+    "wallet": "지갑",
+    "data_integration": "데이터 통합",
+    "settings": "설정"
+  },
+  "submenu": {
+    "find_talents": "인재 찾기",
+    "saved_profiles": "저장된 프로필",
+    "meeting_requests": "회의 요청"
+  },
+  "tooltip": {
+    "people_search": "인재 검색",
+    "notifications": "알림",
+    "campaigns": "캠페인",
+    "wallet": "지갑",
+    "data_integration": "데이터 통합",
+    "settings": "설정"
+  },
+  "homepage": {
+    "ribbon": "최신 기능을 탐험해보세요"
+  },
+  "pricing": {
+    "alt_free": "무료 플랜 이미지",
+    "alt_pro": "전문 플랜 이미지",
+    "free_plan": "무료 플랜",
+    "limited_access": "제한된 접근",
+    "professional_plan": "전문 플랜",
+    "expires_on": "{{date}}에 만료",
+    "expired": "만료됨",
+    "upgrade": "Pro로 업그레이드",
+    "renew": "플랜 갱신"
+  }
+}

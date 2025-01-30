@@ -1,0 +1,78 @@
+{
+  "meetings": {
+    "title": "회의 요청",
+    "subtitle": "모든 회의 요청을 한 곳에서 추적하세요",
+    "meta": {
+      "total": "총계",
+      "complete": "완료됨",
+      "in_progress": "진행 중",
+      "pending": "보류 중",
+      "action_needed": "조치 필요"
+    },
+    "filters": {
+      "all": "모두",
+      "completed": "완료됨",
+      "pending": "보류 중",
+      "accepted": "승인됨",
+      "payment_failed": "결제 실패",
+      "refunded": "환불됨"
+    },
+    "placeholders": {
+      "search_by_name": "이름으로 검색",
+      "select_step": "단계 선택"
+    }
+  },
+
+  "meeting_modal": {
+    "pay_label": "{{name}}님에게 지불",
+    "amount_placeholder": "100",
+    "min_transaction_error": "최소 거래 금액은 $0.5입니다. 이보다 적은 금액은 처리되지 않습니다.",
+    "refund_policy": "수신자가 거부하거나 7일 이내에 응답하지 않으면 결제 금액이 크레딧으로 환불됩니다.",
+    "use_wallet_credits": "지갑 크레딧 사용",
+    "wallet_balance": "지갑 잔액: ${{balance}}",
+    "bank_payable_amount": "은행 결제 금액",
+    "email_type_label": "후보자의",
+    "business_email": "업무 이메일",
+    "personal_email": "개인 이메일",
+    "message_label": "메시지 (필수)",
+    "contact_label": "연락처 (필수)",
+    "contact_placeholder": "Calendly 링크, 이메일 또는 기타 연락처 정보",
+    "contact_helper": "후보자가 쉽게 연결할 수 있도록 연락처를 제공하세요.",
+    "cancel_button": "취소",
+    "send_payment_button": "결제 보내기"
+  },
+  "interview_invite": {
+    "title": "요청 세부정보",
+    "copied": "복사 완료",
+    "copy_failed": "복사 실패",
+    "profile_alt": "{name}의 프로필",
+    "default_user": "레드롭 사용자",
+    "request_label": "요청",
+    "expires_on": "{{date}}에 만료됨",
+    "shared_contact": "공유된 연락처",
+    "unique_code": "고유 코드",
+    "payment_message": "코드를 생성하려면 결제를 완료하세요",
+    "share_code": "{{name}}에게 이 코드를 공유하여 프로세스를 완료하세요",
+    "close": "닫기",
+    "retry_payment": "결제 다시 시도"
+  },
+  "interview_card": {
+    "badges": {
+      "payment_processing": "결제 처리 중",
+      "completed": "완료됨",
+      "pending": "보류 중",
+      "expired": "만료됨",
+      "accepted": "승인됨",
+      "declined": "거부됨",
+      "payment_failed": "결제 실패",
+      "refunded": "환불됨"
+    },
+    "copied": "복사 완료",
+    "copy_failed": "복사 실패",
+    "profile_alt": "{{name}}의 프로필",
+    "default_user": "레드롭 사용자",
+    "request": "요청",
+    "sent_on": "{{date}}에 전송됨",
+    "retry_payment": "결제 다시 시도"
+  }
+}

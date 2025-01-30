@@ -1,0 +1,48 @@
+{
+  "headings": {
+    "data_integration": "데이터 통합",
+
+    "add_accounts": "계정을 추가하고 데이터를 한 곳에서 관리하세요!",
+    "link_accounts": "자주 사용하는 계정을 Redrob에 연결하면 맞춤형 활동을 추천합니다."
+  },
+  "platforms": {
+    "gmail": {
+      "name": "Gmail",
+      "description": "후보자 채용 프로세스를 관리하기 위해 이메일 통신을 중앙 집중화합니다."
+    },
+    "drive": {
+      "name": "Drive",
+      "description": "팀과 실시간으로 파일을 협업하여 원활한 문서 관리를 보장합니다."
+    },
+    "testgorilla": {
+      "name": "TestGorilla",
+      "description": "400개 이상의 기술 기반 테스트로 후보자를 평가하여 데이터 기반 결정을 내립니다."
+    },
+    "upwork": {
+      "name": "Upwork",
+      "description": "글로벌 프리랜서 풀을 활용하여 유연하게 프로젝트를 완료하세요."
+    },
+    "remote": {
+      "name": "Remote",
+      "description": "분산된 글로벌 팀 관리를 위한 통합 HR, 급여 및 컴플라이언스 관리 플랫폼을 제공합니다."
+    },
+    "deel": {
+      "name": "Deel",
+      "description": "여러 국가에서 팀 급여를 쉽게 관리하여 원활한 글로벌 운영을 지원합니다."
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "description": "LinkedIn 네트워크를 통해 최고의 인재와 연결하고 고급 채용 도구를 활용하세요."
+    }
+  },
+  "messages": {
+    "coming_soon_warning": "이 기능은 비즈니스 플랜에서만 사용할 수 있습니다. 플랜을 업그레이드하세요."
+  },
+  "buttons": {
+    "connected": "연결됨",
+    "connect_account": "계정을 연결하세요"
+  },
+  "alt": {
+    "platform_image": "Redrob 플랫폼과 통합된 플랫폼 목록"
+  }
+}

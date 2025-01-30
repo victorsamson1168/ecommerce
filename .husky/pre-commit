@@ -1,0 +1,2 @@
+# Run ESLint
+yarn lint

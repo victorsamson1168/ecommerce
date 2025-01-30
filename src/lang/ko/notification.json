@@ -1,0 +1,13 @@
+{
+  "titles": {
+    "notifications": "알림"
+  },
+  "labels": {
+    "received_on": "수신 날짜: {{date}}"
+  },
+  "empty": {
+    "title": "아직 알림이 없습니다",
+    "content1": "현재 표시할 알림이 없습니다.",
+    "content2": "나중에 다시 확인해주세요."
+  }
+}

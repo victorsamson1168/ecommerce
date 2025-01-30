@@ -1,0 +1,203 @@
+{
+  "main": {
+    "section1": {
+      "subtitle": "사용 팁!",
+      "title": "면접 모듈 만드는 법",
+      "features": {
+        "subtitle1": "1단계",
+        "subtitle2": "2단계",
+        "subtitle3": "3단계",
+        "subtitle4": "4단계",
+        "title1": "키워드 선택하기",
+        "title2": "인공지능으로 면접 생성하기",
+        "title3": "면접 수정하기",
+        "title4": "링크로 공유하기",
+        "content1": "먼저, 면접하고 싶은 대상에 대해 알려주세요!",
+        "content2": "레드롭 인공지능이 면접 대상에 대한 면접을 생성해드려요.",
+        "content3": "생성된 면접 문제를 초안으로 활용해 수정할 수 있어요.",
+        "content4": "수정이 완료되면 면접 대상에게 간단하게 링크로 공유하면 끝이에요!"
+      }
+    },
+    "section2": {
+      "subtitle": "시작하기",
+      "title": "면접 생성하기"
+    },
+    "section3": {
+      "subtitle": "면접 템플릿",
+      "title": "템플릿 둘러보기"
+    },
+    "section4": {
+      "subtitle": "내가 생성한 면접",
+      "title": "내가 만든 면접 목록"
+    },
+    "banner": {
+      "subtitle": "왜 굳이 레드롭을?",
+      "title1": "단 몇번의 클릭으로",
+      "title2": "쉽게 면접을 만들 수 있어요.",
+      "cont1": "면접 문제를 만들기 어려웠던 회사들도",
+      "cont2": "레드롭을 활용해 30초 이내에 면접을 자동화 할 수 있어요.",
+      "button": "바로 시작하기"
+    }
+  },
+  "id": {
+    "tabs": {
+      "questions": "문제 목록",
+      "results": "응시자 목록",
+      "settings": "설정"
+    },
+    "questions": {
+      "title": "문제 수정하기",
+      "type": {
+        "label": "문제 유형",
+        "options": {
+          "MCQ": "객관식 문제",
+          "CQ": "코딩 문제",
+          "WQ": "주관식 문제"
+        }
+      },
+      "question": {
+        "label": "문제",
+        "placeholder": "문제 내용을 입력해주세요..."
+      },
+      "options": {
+        "label": "선택지",
+        "placeholder": "선택지 내용을 입력해주세요..."
+      },
+      "delete": {
+        "section": {
+          "title": "섹션 삭제",
+          "content": "이 섹션을 삭제하시겠어요? 섹션에 포함된 모든 문제가 삭제되고 한 번 삭제되면 복구가 불가능해요."
+        },
+        "question": {
+          "title": "문제 삭제",
+          "content": "이 문제를 삭제하시겠어요? 한 번 삭제되면 복구가 불가능해요."
+        }
+      }
+    },
+    "results": {
+      "title": "응시자 목록",
+      "evaluation": {
+        "candidates": "총 응시자 수",
+        "averageScore": "평균 점수",
+        "averageTime": "평균 완료 시간",
+        "completed": "제출 완료"
+      },
+      "chips": {
+        "all": "전체",
+        "graded": "면접 완료",
+        "completed": "제출 완료",
+        "started": "시험 시작"
+      },
+
+      "modal": {
+        "title": "테스트 세부정보",
+        "candidate": "지원자 정보",
+        "completedAt": "종료 날짜",
+        "completedTime": "종료 시간",
+        "resume": "이력서",
+        "result": {
+          "title": "결과",
+          "percentage": "백분율",
+          "completionTime": "완료 시간",
+          "mins": "분",
+          "comments": "레드롭 AI 코멘트",
+          "ComingSoon": "이 기능은 곧 제공될 예정입니다!"
+        },
+        "response": {
+          "title": "질문 및 응답",
+          "unanswered": "미응답"
+        }
+      }
+    },
+    "settings": {
+      "assessment": {
+        "title": "면접 설정",
+        "titleInput": {
+          "label": "제목",
+          "placeholder": "면접 제목을 입력해주세요."
+        },
+        "description": {
+          "label": "설명",
+          "placeholder": "면접 설명을 입력해주세요."
+        },
+        "visibility": {
+          "label": "활성화 여부",
+          "content": "활성화 될 경우 링크를 공유받은 사용자들 모두 응시 가능해요."
+        },
+        "delete": {
+          "label": "삭제",
+          "content": "활성화 될 경우 해당 면접이 삭제돼요."
+        },
+        "domain": {
+          "label": "도메인 주소",
+          "content": "활성화 될 경우 링크를 공유받은 사용자들 모두 응시 가능해요.",
+          "placeholder": "ex) mckinleyrice.co"
+        }
+      },
+      "schedule": {
+        "title": "스케줄 & 타이밍",
+        "publish": {
+          "label": "게시 날짜",
+          "content": "게시날짜 이후 면접이 자동으로 공개됩니다."
+        },
+        "closing": {
+          "label": "마감 날짜",
+          "content": "마감날짜 이후 면접이 자동으로 마감됩니다."
+        },
+        "time_limit": {
+          "label": "시간 제한",
+          "content": "평가 시간 제한을 설정할 수 있습니다.",
+          "tooltip": "기본값 : 30 분",
+          "min": "분"
+        },
+        "default": "선택"
+      }
+    }
+  },
+  "list": {
+    "title1": "인기 템플릿",
+    "cont1": "처음부터 시작할 필요 없이 미리 만들어진 템플릿 중 하나를 클릭하세요!",
+    "title2": "내 면접"
+  },
+  "templates": {
+    "title1": "프리메이드 템플릿",
+    "cont1": "미리 만들어진 템플릿을 둘러보고 사용하고 싶은 템플릿을 선택하세요!"
+  },
+  "open": "활성화",
+  "closed": "비활성화",
+  "createnew": {
+    "title": "면접 생성하기",
+    "leftTitle1": "면접 대상 선택하기 (택 1)",
+    "leftTitle2": "찾으시는 키워드가 없으신가요? 아래에 입력해주세요!",
+    "rightTitle1": "1. 면접대상 키워드 선택",
+    "rightTitle2": "2. 면접대상 직접 입력",
+    "rightCont1": "추천 키워드 중 원하시는 면접 대상을 선택한 후 생성하기 버튼을 눌러주세요. 레드롭 인공지능이 대신 문제를 생성해드려요.",
+    "rightCont2": "추천 키워드 중 원하시는 면접 대상이 없을 경우, 직접 입력 가능해요! 입력 후 생성하기 버튼을 눌려주세요.",
+    "placeholder": "예: 자바 개발자",
+    "button": "면접 생성하기",
+    "loading": {
+      "title": "레드롭 인공지능이 면접을 생성하고 있어요!",
+      "body": "조금만 기다려주세요. 최대 60초까지 걸릴 수 있어요 :)"
+    }
+  },
+  "modal": {
+    "assessment": {
+      "open": {
+        "title": "활성화",
+        "content": "이 면접 모듈을 활성화 할 경우, 링크를 보유하고 있는 모든 사용자가 면접 시험에 응시할 수 있어요."
+      },
+      "close": {
+        "title": "비활성화",
+        "content": "이 면접 모듈을 비활성화 할 경우, 응시자의 접속이 제한돼요. 다만, 언제든지 다시 활성화 할 수 있어요 :)"
+      },
+
+      "delete": {
+        "title": "면접 삭제",
+        "content": "이 면접 모듈을 삭제하시겠어요?"
+      }
+    }
+  },
+  "text": {
+    "saved": "마지막 수정"
+  }
+}

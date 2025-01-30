@@ -1,0 +1,47 @@
+{
+  "headings": {
+    "data_integration": "Integrations",
+    "add_accounts": "Add your accounts and manage your data in one place!",
+    "link_accounts": "If you link your frequently used accounts to Redrob, we will recommend customized activities."
+  },
+  "platforms": {
+    "gmail": {
+      "name": "Gmail",
+      "description": "Centralize your email communications to manage candidate hiring process."
+    },
+    "drive": {
+      "name": "Drive",
+      "description": "Collaborate on files with your team in real-time, ensuring seamless document management."
+    },
+    "testgorilla": {
+      "name": "TestGorilla",
+      "description": "Assess candidates with over 400 skills-based tests to make data-driven decisions."
+    },
+    "upwork": {
+      "name": "Upwork",
+      "description": "Take advantage of our global pool of freelancers to flexibly complete your projects."
+    },
+    "remote": {
+      "name": "Remote",
+      "description": "We provide an integrated HR, payroll, and compliance management platform for managing distributed global teams."
+    },
+    "deel": {
+      "name": "Deel",
+      "description": "Easily manage team payroll across multiple countries to support smooth global operations."
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "description": "Connect with top talent through LinkedIn network and leverage advanced recruiting tools."
+    }
+  },
+  "messages": {
+    "coming_soon_warning": "This feature is only available in business plan. Please upgrade your plan."
+  },
+  "buttons": {
+    "connected": "Connected",
+    "connect_account": "Connect your account"
+  },
+  "alt": {
+    "platform_image": "List of platform integrated with Redrob platform"
+  }
+}
