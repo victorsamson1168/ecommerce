@@ -2,7 +2,7 @@
 
 // Standard packages
 import Link from 'next/link';
-import { usePathname, useRouter, useSearchParams } from 'next/navigation';
+import { usePathname, useRouter } from 'next/navigation';
 import { ReactNode, useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 
@@ -50,7 +50,7 @@ export default function DashBoardNav(props: DashBoardNavProps) {
   /** third-party hooks */
   const pathname = usePathname();
   const router = useRouter();
-  const params = useSearchParams();
+  // const params = useSearchParams();
   const queryClient = useQueryClient();
   const { t } = useTranslation();
 
