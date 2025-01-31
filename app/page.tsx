@@ -14,7 +14,7 @@ export default function Home() {
         />
 
         <h1 className="text-4xl font-bold text-center sm:text-left">
-          Let's create the ecommerce together
+          {` Lets create the ecommerce together`}
         </h1>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
